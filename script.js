@@ -35,7 +35,7 @@ const questions = [
 {
   type: "mcq",
   q: "Which is a MAJOR Jones criterion?",
-  options: ["Fever", "Arthralgia", "Chorea", "Prolonged PR interval"],
+  options: ["Fever", "Mono Arthralgia", "Chorea", "Prolonged PR interval"],
   a: 2
 },
 {
